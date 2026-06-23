@@ -18,7 +18,17 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				serif: ['Merriweather', 'serif'],
+				sans: ['Golos Text', 'sans-serif']
+			},
 			colors: {
+				school: {
+					navy: 'hsl(var(--school-navy))',
+					blue: 'hsl(var(--school-blue))',
+					red: 'hsl(var(--school-red))',
+					gold: 'hsl(var(--school-gold))'
+				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
