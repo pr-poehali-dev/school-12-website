@@ -458,7 +458,6 @@ const Index = () => {
                 { icon: 'MapPin', label: 'Адрес', value: 'г. Саров, ул. Казамазова, д. 5' },
                 { icon: 'Phone', label: 'Телефон', value: '(83130) 9-51-21' },
                 { icon: 'Mail', label: 'Email', value: 's12_sar@mail.52gov.ru' },
-                { icon: 'Globe', label: 'Сайт', value: 'школа12.саров.рф' },
                 { icon: 'User', label: 'Директор', value: 'Градова Юлия Геннадьевна' },
                 { icon: 'Clock', label: 'Часы приёма директора', value: 'Понедельник: 14:00–17:00\nПятница: 9:00–13:00' },
               ].map((c) => (
